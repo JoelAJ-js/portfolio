@@ -1,4 +1,3 @@
-# portfolio
 # Data Scientist
 
 #### Technical Skills: Python, SQL, Machine learning algorithms,Tableau
